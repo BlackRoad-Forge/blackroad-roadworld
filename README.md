@@ -1,12 +1,5 @@
 # RoadWorld Module
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E.svg)](https://developer.mozilla.org)
-[![MapLibre](https://img.shields.io/badge/MapLibre-GL-4264FB.svg)](https://maplibre.org)
-[![19 Modules](https://img.shields.io/badge/modules-19-FF6B2B.svg)](https://blackroad.io)
-[![Multiplayer](https://img.shields.io/badge/multiplayer-game-CC00AA.svg)](https://blackroad.io)
-
-
-
 BlackRoad Earth street-level exploration module built with MapLibre GL.
 
 ## Features
@@ -166,3 +159,22 @@ Part of the BlackRoad Earth infrastructure. Integrates with:
 ## License
 
 MIT License - BlackRoad Systems
+
+---
+
+## 📜 License & Copyright
+
+**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
+
+**CEO:** Alexa Amundson | **PROPRIETARY AND CONFIDENTIAL**
+
+This software is NOT for commercial resale. Testing purposes only.
+
+### 🏢 Enterprise Scale:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- CEO: Alexa Amundson
+
+**Contact:** blackroad.systems@gmail.com
+
+See [LICENSE](LICENSE) for complete terms.
